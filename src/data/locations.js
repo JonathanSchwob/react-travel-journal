@@ -1,7 +1,7 @@
 const locations =    [
     {
         title: "Mount Fuji",
-        location: "Japan",
+        location: "JAPAN",
         startDate: "12 Jan, 2021",
         endDate: "12 Jan, 2021",
         description: "loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum",
@@ -9,7 +9,7 @@ const locations =    [
     },
     {
         title: "Australia",
-        location: "Straya",
+        location: "STRAYA",
         startDate: "12 Jan, 2021",
         endDate: "12 Jan, 2021",
         description: "loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum",
@@ -17,7 +17,7 @@ const locations =    [
     },
     {
         title: "Norway",
-        location: "Earf",
+        location: "EARTH",
         startDate: "12 Jan, 2021",
         endDate: "12 Jan, 2021",
         description: "loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum",

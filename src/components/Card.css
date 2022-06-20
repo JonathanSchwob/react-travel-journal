@@ -1,0 +1,21 @@
+.card {
+    padding: 80px;
+    display: flex;
+}
+
+.cardImage {
+    height: 350px;
+    width: 225px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.cardInfo {
+    padding: 20px;
+}
+
+.country {
+    display: inline;
+    font-size: 10;
+    font-kerning: none;
+}
